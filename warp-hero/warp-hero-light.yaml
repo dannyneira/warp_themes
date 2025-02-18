@@ -3,7 +3,7 @@ background: "#baa698"
 accent: "#333a32"
 foreground: "#000000"
 background_image:
-  path: hero.jpeg
+  path: warp-hero.jpeg
   opacity: 40
 details: lighter
 terminal_colors:
@@ -25,4 +25,4 @@ terminal_colors:
     magenta: '#f5c2e7'
     cyan: '#94e2d5'
     white: '#a6adc8'
-name: Hero Light
+name: Warp Hero Light
