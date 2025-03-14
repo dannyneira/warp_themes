@@ -1,10 +1,10 @@
 ---
 background: "#18211d"
-accent: "#baa698"
+accent: "#33895c"
 foreground: "#ffffff"
 background_image:
   path: warp-hero.jpeg
-  opacity: 80
+  opacity: 20
 details: darker
 terminal_colors:
   normal:
